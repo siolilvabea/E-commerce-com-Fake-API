@@ -1,0 +1,36 @@
+{
+    "name": "The Weeknd",
+    "album": "Hurry Up Tomorrow",
+    "style": "R&B",
+    "price": "R$233,19",
+    "image": "<img src='img/img.hurryuptomorrow.jpg' width='150px'>",
+    "numberOfMusics": 22,
+
+    "name2": "Lana Del Rey",
+    "album2": "Norman Fucking Rockwell",
+    "style2": "Pop",
+    "price2": "R$542,00",
+    "image2": "<img src='img/img.normanfuckingrockwell.jpg' width='150px'>",
+    "numberOfMusics2": 14,
+
+    "name3": "Tame Impala",
+    "album3": "Currents",
+    "style3": "Psychedelic Rock",
+    "price3": "R$401,03",
+    "image3": "<img src='img/img.currents.jpg' width='150px'>",
+    "numberOfMusics3": 13,
+    
+    "name4": "Frank Ocean",
+    "album4": "Blonde",
+    "style4": "R&B",
+    "price4": "R$750,00",
+    "image4": "<img src='img/img.blonde.jpg' width='150px'>",
+    "numberOfMusics4": 17,
+    
+    "name5": "Bad Bunny",
+    "album5": "DeBÍ TiRAR Más FOToS",
+    "style5": "Reggaeton",
+    "price5": "R$360,59",
+    "image5": "<img src='img/img.debitirarmasfotos.jpg' width='150px'>",
+    "numberOfMusics5": 17
+}
